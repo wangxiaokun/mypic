@@ -1,58 +1,106 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="第 1 页" id="bHeD-zbfW_tD5q5CruoQ">
-    <mxGraphModel dx="169" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-70" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lm4zTS06JlCJqqm8C1mE-3" target="lm4zTS06JlCJqqm8C1mE-5">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lm4zTS06JlCJqqm8C1mE-3" target="lm4zTS06JlCJqqm8C1mE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-2" value="调用message.c中的方法&lt;div&gt;序列化&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lm4zTS06JlCJqqm8C1mE-1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-2" value="调用message.c中的方法&lt;div&gt;序列化&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lm4zTS06JlCJqqm8C1mE-1" vertex="1" connectable="0">
           <mxGeometry x="-0.2424" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-3" value="结构体对象&lt;div&gt;Student / MyClass&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-3" value="结构体对象&lt;div&gt;Student / MyClass&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="970" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lm4zTS06JlCJqqm8C1mE-5" target="lm4zTS06JlCJqqm8C1mE-7">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lm4zTS06JlCJqqm8C1mE-5" target="lm4zTS06JlCJqqm8C1mE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-5" value="二进制字节流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-5" value="二进制字节流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="970" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lm4zTS06JlCJqqm8C1mE-7" target="lm4zTS06JlCJqqm8C1mE-8">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lm4zTS06JlCJqqm8C1mE-7" target="lm4zTS06JlCJqqm8C1mE-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-7" value="传输通道&lt;div&gt;bufferevent / evbuffer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-7" value="传输通道&lt;div&gt;bufferevent / evbuffer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="970" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-8" value="socket缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-8" value="socket缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="970" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lm4zTS06JlCJqqm8C1mE-10" target="lm4zTS06JlCJqqm8C1mE-12">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lm4zTS06JlCJqqm8C1mE-10" target="lm4zTS06JlCJqqm8C1mE-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-10" value="socket缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-10" value="socket缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lm4zTS06JlCJqqm8C1mE-12" target="lm4zTS06JlCJqqm8C1mE-14">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lm4zTS06JlCJqqm8C1mE-12" target="lm4zTS06JlCJqqm8C1mE-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-12" value="&lt;div&gt;bufferevent&lt;/div&gt;&lt;div&gt;回调触发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-12" value="&lt;div&gt;bufferevent&lt;/div&gt;&lt;div&gt;回调触发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-13" value="调用message.c中的方法&lt;div&gt;反&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;序列化&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-13" value="调用message.c中的方法&lt;div&gt;反&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;序列化&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1350" y="649.0000000000001" as="sourcePoint" />
             <mxPoint x="1350" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-14" value="二进制字节流&lt;div&gt;接收缓冲区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-14" value="二进制字节流&lt;div&gt;接收缓冲区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1290" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm4zTS06JlCJqqm8C1mE-15" value="结构体对象&lt;div&gt;Student / MyClass&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="lm4zTS06JlCJqqm8C1mE-15" value="结构体对象&lt;div&gt;Student / MyClass&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1290" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1774" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1894" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-6" value="&lt;div&gt;bench.c&lt;/div&gt;&lt;div&gt;bench_cascade.c&lt;/div&gt;&lt;div&gt;bench_http.c&lt;/div&gt;&lt;div&gt;bench_httpclient.c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="450" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1774" y="450" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1894" y="450" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="450" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-14" value="check-dumpevents.py" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="760" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-16" value="&lt;div&gt;include.am&lt;/div&gt;&lt;div&gt;Makefile.nmake&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-17" value="print-winsock-errors.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="860" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-18" value="rpcgen_wrapper.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="910" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-19" value="&amp;nbsp;这个 Python 脚本，用来检查 test-dumpevents.c 输出的结果，&amp;nbsp; &amp;nbsp;后者是用于测试事件转储功能的。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="760" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-20" value="&amp;nbsp;构建测试相关的 Makefile 配置文件（autotools / nmake 用）。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="810" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-21" value="&amp;nbsp;用于打印 Windows 上 Winsock 错误码。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="860" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4ESzDmlQAR68TbJbTXDd-22" value="&amp;nbsp;当通过 event_rpcgen.py +&amp;nbsp;regress.rpc 生成&amp;nbsp;regress.gen.h/.c 失败时， Makefile 默认会在 build 目录生成空的 regress.gen.c/h 文件，这会导致 make distclean 报错，为了避免这种情况，Libevent 写了这个 包装脚本。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="910" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
