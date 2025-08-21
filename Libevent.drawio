@@ -181,49 +181,49 @@
           <mxGeometry x="3620" y="1060" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-31" value="buffer.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1590" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-32" value="buffer_iocp.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1620" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1610" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-33" value="bufferevent.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1650" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1640" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-34" value="bufferevent_async.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1680" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1670" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-35" value="&amp;nbsp;通用的缓冲区实现 (evbuffer)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1590" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1580" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-36" value="&amp;nbsp;为 Windows IOCP 设计的缓冲区实现" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1620" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1610" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-37" value="&amp;nbsp;bufferevent 抽象层 (异步读写接口)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1650" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1640" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-38" value="&amp;nbsp;基于异步 IO 的 bufferevent" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1680" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1670" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-39" value="文件名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1560" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1550" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-40" value="说明" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1560" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1550" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-41" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1590" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1580" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-42" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1620" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1610" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-43" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1650" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1640" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-44" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1680" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1670" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-45" value="序号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1560" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1550" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-106" value="大多数平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3810" y="1090" width="140" height="40" as="geometry" />
@@ -316,49 +316,49 @@
           <mxGeometry x="3810" y="1330" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-143" value="bufferevent_filter.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1710" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1700" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-144" value="bufferevent_openssl.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1740" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1730" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-145" value="bufferevent_pair.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1770" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1760" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-146" value="bufferevent_ratelim.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1800" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1790" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-147" value="&amp;nbsp;bufferevent 过滤层 (数据过滤/变换)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1710" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1700" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-148" value="&amp;nbsp;基于 OpenSSL 的 bufferevent (支持 TLS/SSL)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1740" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1730" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-149" value="&amp;nbsp;成对的 bufferevent (内存中互联)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1770" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1760" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-150" value="&amp;nbsp;限速功能 (Rate Limiting)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1800" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1790" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-151" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1710" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-152" value="6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1740" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1730" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-153" value="7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1770" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1760" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-154" value="8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1800" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-157" value="bufferevent_sock.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="1830" width="140" height="30" as="geometry" />
+          <mxGeometry x="3770" y="1820" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-158" value="&amp;nbsp;基于 socket 的 bufferevent" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="1830" width="340" height="30" as="geometry" />
+          <mxGeometry x="3910" y="1820" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-159" value="9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="1830" width="50" height="30" as="geometry" />
+          <mxGeometry x="3720" y="1820" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3YWzzSOtX_iTLKpykOy-160" value="http.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3730" y="2100" width="140" height="30" as="geometry" />
