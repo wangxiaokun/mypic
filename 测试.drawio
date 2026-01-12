@@ -46,6 +46,9 @@
         <mxCell id="_wrKqYpqFzUDBqnUG6Qf-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="知乎、掘金" vertex="1">
           <mxGeometry height="30" width="101" x="699" y="425" as="geometry" />
         </mxCell>
+        <mxCell id="UrocmOL0A0ERK87CVjrU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=3;fontSize=21;" value="C++&lt;br&gt;&lt;div&gt;static_cast&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="1089" y="469" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
