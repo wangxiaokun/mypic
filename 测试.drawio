@@ -32,7 +32,7 @@
           <mxGeometry height="60" width="120" x="190" y="700" as="geometry" />
         </mxCell>
         <mxCell id="eJDqccZ6bp8iO_WSQ1hm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=3;fontSize=28;" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;MySQL&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Terminal close&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80.86" width="192" x="570" y="140" as="geometry" />
+          <mxGeometry height="80.86" width="193" x="570" y="140" as="geometry" />
         </mxCell>
         <mxCell id="eJDqccZ6bp8iO_WSQ1hm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;MySQL&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Terminal close&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="161" width="161" x="800" y="100" as="geometry" />
