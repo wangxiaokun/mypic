@@ -369,7 +369,7 @@
         <mxCell id="5DiFMiv_U2kvlZmsdEji-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDECEA;strokeColor=#E53935;fontSize=16;fontStyle=3;fontColor=#333333;" value="❌ 不适合使用 AI Agent" vertex="1">
           <mxGeometry height="60" width="192" x="4788" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="5DiFMiv_U2kvlZmsdEji-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=3" value="CRUD简单" vertex="1">
+        <mxCell id="5DiFMiv_U2kvlZmsdEji-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FB8C00;fontSize=16;fontStyle=3;fontColor=#333333;" value="CRUD简单" vertex="1">
           <mxGeometry height="60" width="120" x="4637" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="5DiFMiv_U2kvlZmsdEji-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=3" value="高性能要求" vertex="1">
